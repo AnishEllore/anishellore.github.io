@@ -7,9 +7,9 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - 2020`
+__BITS Pilani Hyderabad Campus__
+B.E (Hons) Computer Science
 
 `1995 - 1997`
 __University Name__
