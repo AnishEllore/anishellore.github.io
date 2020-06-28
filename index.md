@@ -7,17 +7,17 @@ I'm a undergraduate student in Computer Science at BITS Pilani, Hyderabad Campus
 ## Publications
 ----
 
-[**Fusion Learning: A One Shot Federated Learning**]()
+[**Fusion Learning: A One Shot Federated Learning**](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_31)
 <br />
 Anirudh Kasturi, **Anish Reddy Ellore**, and Chittaranjan Hota
 <br />
 _20th International Conference on Computational Science (ICCS 2020 Netherlands)_,(Core A)
 <br />
-(Accepted in proceedings)
+
 
 [**Sequential Anomaly Detection on Data Streams using Feedback and <br /> Prioritized Experience Replay**]()
 <br />
 **Anish Reddy Ellore**, Sanket Mishra and Chittaranjan Hota
 <br />
-_IEEE IOT Journal_, (under review)
+_Knowledge-Based Systems_, (under review)
 
