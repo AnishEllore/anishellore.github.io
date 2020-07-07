@@ -3,7 +3,7 @@ layout: page
 excerpt: "Anish Ellore's personal website"
 ---
 
-I'm an undergraduate student in Computer Science at BITS Pilani, Hyderabad Campus currently doing thesis under [Prof. Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile). In my research at BITS, I focus on building scalable machine learning models keeping privacy and communication overhead in mind.
+I'm an undergraduate student in Computer Science at BITS Pilani Hyderabad Campus currently doing thesis under [Prof. Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile). In my research at BITS, I focus on building scalable machine learning models keeping privacy and communication overhead in mind.
 ## Publications
 ----
 
