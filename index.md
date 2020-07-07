@@ -14,6 +14,13 @@ Anirudh Kasturi, **Anish Reddy Ellore**, and Chittaranjan Hota
 _20th International Conference on Computational Science (ICCS 2020 Netherlands)_,(Core A)
 <br />
 
+[**Hybrid Fusion Learning: A Hierarchical Learning Model for Distributed Systems**]()
+<br />
+Anirudh Kasturi, **Anish Reddy Ellore**, Paresh Saxena, and Chittaranjan Hota
+<br />
+_4th International Workshop on Deep Learning for Mobile Systems and Applications (26th ACM MobiCom 2020), London, Sept 2020_,
+<br />
+(Core A*) (In proceedings)
 
 [**Sequential Anomaly Detection on Data Streams using Feedback and <br /> Prioritized Experience Replay**]()
 <br />
