@@ -1,4 +1,3 @@
-  
 ---
 layout: FileHost
 title: Thesis
