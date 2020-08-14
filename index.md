@@ -14,7 +14,7 @@ Anirudh Kasturi, **Anish Reddy Ellore**, and Chittaranjan Hota
 _20th International Conference on Computational Science (ICCS 2020 Netherlands)_,(Core A)
 <br />
 
-[**Hybrid Fusion Learning: A Hierarchical Learning Model for Distributed Systems**]()
+[**Hybrid Fusion Learning: A Hierarchical Learning Model for Distributed Systems**](https://dl.acm.org/doi/10.1145/3410338.3412339)
 <br />
 Anirudh Kasturi, **Anish Reddy Ellore**, Paresh Saxena, and Chittaranjan Hota
 <br />
