@@ -19,10 +19,10 @@ _20th International Conference on Computational Science (ICCS 2020 Netherlands)_
 Anirudh Kasturi, **Anish Reddy Ellore**, Paresh Saxena, and Chittaranjan Hota
 <br />
 _4th International Workshop on Deep Learning for Mobile Systems and Applications (26th ACM MobiCom 2020), London, Sept 2020_, (Core A*) (In proceedings)
-
+<!---
 [**Sequential Anomaly Detection on Data Streams using Feedback and <br /> Prioritized Experience Replay**]()
 <br />
 **Anish Reddy Ellore**, Sanket Mishra and Chittaranjan Hota
 <br />
 _Knowledge-Based Systems_, (under review)
-
+-->
