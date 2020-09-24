@@ -3,7 +3,7 @@ layout: page
 excerpt: "Anish Ellore's personal website"
 ---
 
-I'm an undergraduate student in Computer Science at BITS Pilani Hyderabad Campus currently doing thesis under [Prof. Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile). In my research at BITS, I focus on building scalable machine learning models keeping privacy and communication overhead in mind.
+I'm a computer scienc graduate from BITS Pilani Hyderabad Campus currently working as a software developer in OPPO India R&D Center. I have done my undergraduate thesis under [Prof. Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile), where I worked on building scalable machine learning models keeping privacy and communication overhead in mind.
 ## Publications
 ----
 
@@ -18,7 +18,7 @@ _20th International Conference on Computational Science (ICCS 2020 Netherlands)_
 <br />
 Anirudh Kasturi, **Anish Reddy Ellore**, Paresh Saxena, and Chittaranjan Hota
 <br />
-_4th International Workshop on Deep Learning for Mobile Systems and Applications (26th ACM MobiCom 2020), London, Sept 2020_, (Core A*) (In proceedings)
+_4th International Workshop on Deep Learning for Mobile Systems and Applications (26th ACM MobiCom 2020), London, Sept 2020_, (Core A*)
 <!---
 [**Sequential Anomaly Detection on Data Streams using Feedback and <br /> Prioritized Experience Replay**]()
 <br />
