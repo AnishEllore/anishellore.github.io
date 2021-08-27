@@ -2,7 +2,7 @@
 layout: page
 excerpt: "Anish Ellore's personal website"
 ---
-I am passionate about building scalable applications, and I like to make optimizations to make things work faster. I have made such optimizations previously during my undergraduate thesis in Federated Learning. My thesis focused on solving some of the federated learning challenges, including communication overhead and computation load. My primary research interests include Distributed Systems, Machine Learning, Federated Learning, and Privacy.
+I am passionate about building scalable applications, and I like to make optimizations to make things work faster. I have made such optimizations previously during my undergraduate thesis in Federated Learning. My thesis focused on solving some of the federated learning challenges, including communication overhead and computation load. And coming to research, I am interested in Distributed Systems, Machine Learning, Federated Learning, and Privacy.
 ## Publications
 ----
 
