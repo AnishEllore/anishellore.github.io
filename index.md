@@ -3,7 +3,7 @@ layout: page
 excerpt: "Anish Ellore's personal website"
 ---
 
-I'm a computer science graduate from BITS Pilani Hyderabad Campus currently working as a software developer in OPPO India R&D Center. I have done my undergraduate thesis under [Prof. Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile), where I worked on building scalable machine learning models keeping privacy and communication overhead in mind.
+I am passionate about building scalable applications, and I like to make optimizations to make things work faster. I have made such optimizations previously during my undergraduate thesis focusing mainly on communication overhead and privacy. My primary research interests include Distributed Systems, Machine Learning, Federated Learning, and Privacy.
 ## Publications
 ----
 
