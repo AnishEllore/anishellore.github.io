@@ -2,7 +2,14 @@
 layout: page
 excerpt: "Anish Ellore's personal website"
 ---
-I am passionate about building scalable applications, and I like to make optimizations to make things work faster. I have made such optimizations previously during my undergraduate thesis in Federated Learning. My thesis focused on solving some of the federated learning challenges, including communication overhead and computation load. And coming to research, I am interested in Distributed Systems, Machine Learning, Federated Learning, and Privacy.
+Hi! Welcome to my page.
+I am Anish, an MS CS graduate student in Virginia Tech, expected to graduate in Spring 23.
+
+After my Bachelors in Computer Science from BITS Pilani, India, I joined the OPPO India R&D centre as a software engineer. There I worked on improving the OPPO's WIFI module for different Android baseline projects.
+
+During my undergraduate studies, I completed a Summer Internship at Publicis Sapient. There, I built and deployed an end-to-end stream processing application using Azure Event Hubs and Spark's Structured Streaming.
+
+Shortly after, in my final year at BITS, I did quality research work under Prof. Chittaranjan Hota and Dr. Paresh Saxena, publishing papers in top international conferences. Initially, in research, I worked on Time series Anomaly Detection proposing an algorithm to detect sequential anomalies and solve class imbalance problem. Later, I worked on Federated Learning, where I designed algorithms to reduce the FL's communication overhead.
 ## Publications
 ----
 
