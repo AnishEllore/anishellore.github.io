@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Anish Reddy Ellore
   avatar: me4
-  bio: "Developer. ML enthusiast"
+  bio: "Software Engineer"
   email: anishreddy.ellore@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: citations?user=V6Iv8H4AAAAJ&hl=en
   facebook: #username
   instagram: #username
   bing-verify:
