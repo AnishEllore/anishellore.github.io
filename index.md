@@ -4,13 +4,15 @@ excerpt: "Anish Ellore's personal website"
 ---
 Hi! Welcome to my page.
 
-I am Anish, an MS CS graduate student in Virginia Tech, expected to graduate in Spring 23.
+I am Anish, an MS CS graduate student at Virginia Tech, graduating on May 23. My MS Thesis is on Serverless Computing, focusing on reducing the memory footprint of serverless ML inference workloads.
 
-After my Bachelors in Computer Science from BITS Pilani, India, I joined the OPPO India R&D centre as a software engineer. There I worked on improving the OPPO's WIFI module for different Android baseline projects.
+Last summer, I interned at VMware's SDWAN team. There I worked on an interesting and challenging project called statistical counters. I spearheaded this project by collaborating with my manager, architect, and senior engineers. This project involved understanding underlying core counter services, SD-WAN architecture, evaluating tradeoffs, and system design.
+
+After my Bachelors in Computer Science from BITS Pilani, India, I joined the OPPO India R&D centre as a software engineer. There I worked on Android development for OPPO's WIFI module.
 
 During my undergraduate studies, I completed a Summer Internship at Publicis Sapient. There, I built and deployed an end-to-end stream processing application using Azure Event Hubs and Spark's Structured Streaming.
 
-Shortly after, in my final year at BITS, I did quality research work under Prof. Chittaranjan Hota and Dr. Paresh Saxena, publishing papers in top international conferences. Initially, in research, I worked on Time series Anomaly Detection proposing an algorithm to detect sequential anomalies and solve class imbalance problem. Later, I worked on Federated Learning, where I designed algorithms to reduce the FL's communication overhead.
+Shortly after, in my final year at BITS, I did quality research under Prof. Chittaranjan Hota and Dr. Paresh Saxena, publishing papers at top international conferences. Initially, in research, I worked on Time series Anomaly Detection proposing an algorithm to detect sequential anomalies and solve class imbalance problem. Later, I worked on Federated Learning, where I designed algorithms to reduce the FL's communication overhead.
 ## Publications
 ----
 
